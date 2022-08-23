@@ -60,7 +60,7 @@ export default function Weather() {
         </div>
         <footer>
           By Maritssa Medina,{" "}
-          <a href="https://github.com/lilacarly/weather-app">GitHub</a>
+          <a href="https://codesandbox.io/s/github/maritssam/Weather">GitHub</a>
         </footer>
       </div>
     </div>
